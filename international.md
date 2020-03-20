@@ -1,4 +1,7 @@
-# Welcome to Coronatools 🦠
+---
+permalink: '/'
+title: Welcome to Coronahelp 🦠
+---
 
 Your collection of useful infomation, tools and help in those difficult times.
 

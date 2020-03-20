@@ -1,1 +1,8 @@
+plugins:
+  - jekell-relative-links
 theme: jekyll-theme-cayman
+relative_links:
+  enabled: true
+  collecitons: true
+include:
+  - international.md
