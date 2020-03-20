@@ -3,6 +3,8 @@ permalink: '/'
 title: Welcome to Coronahelp 🦠
 ---
 
+{{ page.title }}
+
 Your collection of useful infomation, tools and help in those difficult times.
 
 ## Table of content
