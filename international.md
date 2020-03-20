@@ -17,7 +17,7 @@ A collection of useful infomation, tools and help in those difficult times.
     - [🎮 Interactive media](#🎮-interactive-media)
     - [📺 Videos](#📺-videos)
     - [🎧 Audio Podcasts](#🎧-audio-podcasts)
-  - [Taking actions](#taking-actions)
+  - [Taking action!](#taking-action)
 - [Credits](#credits)
 
 <!-- /TOC -->
@@ -57,7 +57,7 @@ We can do this by not just telling people about the problem but by providing the
 
 > Don't spread panic but awareness and understading
 
-#### 📚 Reads
+#### 📚Reads
 
 ##### [FlattenTheCurve.com](https://www.flattenthecurve.com/)
 
@@ -71,7 +71,7 @@ Sometimes it only requires one word.
 
 Languages| 🇺🇸
 
-#### 🎮 Interactive media
+#### 🎮Interactive media
 
 ##### [Washingtonpost.com/corona-simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
@@ -87,7 +87,7 @@ This time it allows you to actually play around with the simulation instead of j
 
 Languages| 🇺🇸
 
-#### 📺 Videos
+#### 📺Videos
 
 ##### [Kurzgesagt - The Coronavirus Explained & What You Should Do](https://www.youtube.com/watch?v=BtN-goy9VOY)
 
@@ -102,7 +102,7 @@ A very well structured and well produced video about the further preventing the 
 
 Languages| 🇩🇪
 
-#### 🎧 Audio Podcasts
+#### 🎧Audio Podcasts
 
 ##### [[🇩🇪 only] NDR Coronavirus Update](https://www.youtube.com/watch?v=3O6jU6VZRH4&list=PLkKON9te6p3OpxqDskVsxXOmhfW0uPi1H)
 
@@ -118,7 +118,7 @@ A collection of visualized statisics about the outbreak and the spread of the vi
 
 Languages| 🇺🇸
 
-### Taking actions
+### Taking action
 
 The second most important thing is to take action! There are different ways to take action bust most importantly:
 
