@@ -1,0 +1,7 @@
+plugins:
+  - jekell-relative-links
+relative_links:
+  enabled: true
+  collecitons: true
+include:
+  - international.md
